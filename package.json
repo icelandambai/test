@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "*",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "connect-flash": "*",
     "cookie-parser": "^1.4.1",
     "ejs": "^2.6.1",
@@ -20,7 +20,7 @@
     "express-messages": "*",
     "express-session": "*",
     "express-validator": "*",
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "mongodb": "*",
     "mongoose": "*",
     "nodemon": "^1.17.5"
